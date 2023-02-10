@@ -6,7 +6,7 @@ def add_to_phonebook():
     data = di.new_contact()
     tc.new_name(data)
     cc.new_name(data)
-    return data
+    
 
     
 
